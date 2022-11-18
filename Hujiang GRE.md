@@ -4,12 +4,21 @@
 
 ### evoke
 ###hearten
+
 ###discreet
+
 ###convey
+
 ###deficit
+
 ###commencement
+
 ###cathedral
+
 ###amalgemate
+
 ###assert
+
 ###abandon
+
 
