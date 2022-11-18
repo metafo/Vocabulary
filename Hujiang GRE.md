@@ -3,22 +3,23 @@
 ## 第一关
 
 ### evoke
-###hearten
 
-###discreet
+### hearten
 
-###convey
+### discreet
 
-###deficit
+### convey
 
-###commencement
+### deficit
 
-###cathedral
+### commencement
 
-###amalgemate
+### cathedral
 
-###assert
+### amalgemate
 
-###abandon
+### assert
+
+### abandon
 
 
