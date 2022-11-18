@@ -1580,7 +1580,18 @@
 
 ## 第七十三关
 
-### lattice
+### lattice 格子木架，格子金属架，格栅（用作篱笆等）；斜条结构；斜格图案
+
+[不可数名词, 可数名词] ( also latticework [不可数名词]) a structure that is made of strips of wood or metal that cross over each other with spaces shaped like a diamond between them, used, for example, as a fence; any structure or pattern like this 
+
+a low wall of stone latticework
+石砌格构的矮墙
+a lattice of branches
+树枝篱笆
+[派生词]
+latticed
+|ˈlætɪst|
+adj.
 
 ### gimmick
 
