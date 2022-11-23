@@ -1,0 +1,9 @@
+Introduction
+This is a how to illustrating how to work on a 3rd party package, it assumes you are using yarn as your project’s package manager.
+
+In this example I’m using the ember-resolver as the 3rd party library and this Ember.js application as the project I want to use it in.
+
+A gentle warning
+It might be worth checking a release which has resolved this issue is available if you are using Yarn v1.7.0 to avoid being bitten by any linked file errors. A fix is already available in the nightly builds so it’s very likely to.
+
+If not, a solution is to downgrade to Yarn v1.6.0 until then, which can easily be done like this (assuming you’re using homebrew on a mac).
